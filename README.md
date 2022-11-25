@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning React and Next JS
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me; marv.adekkunle@gmail.com.
+- 📫 How to reach me; marv.adekunle@gmail.com.
 
 <!---
 Marvelous-Adekunle/Marvelous-Adekunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
